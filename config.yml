@@ -1,1 +1,26 @@
+backend:
+  name: git-gateway
+  branch: main
 
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: "portfolio"
+    label: "Sculpture Archive"
+    files:
+      - file: "artworks.json"
+        label: "All Sculptures"
+        name: "sculptures"
+        fields:
+          - label: "Artworks"
+            name: "items"
+            widget: "list"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Year", name: "year", widget: "string" }
+              - { label: "Category", name: "category", widget: "select", options: ["Mixed Media", "Terracotta & Clay", "Wood & Concrete", "Plaster of Paris"] }
+              - { label: "Material", name: "material", widget: "string" }
+              - { label: "Dimensions", name: "dimensions", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+              - { label: "Photographs (Front, Side, Back)", name: "images", widget: "list", field: { label: "Photo", name: "image", widget: "image" } }
