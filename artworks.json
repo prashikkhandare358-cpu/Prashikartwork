@@ -1,1 +1,58 @@
-
+{
+  "items": [
+    {
+      "title": "Suspended Labour",
+      "year": "2026",
+      "category": "Mixed Media",
+      "material": "Mixed Media",
+      "dimensions": "28 x 18 x 14 cm",
+      "description": "An exploration of physical toil, suspension, and the weight carried by working-class bodies.",
+      "images": []
+    },
+    {
+      "title": "The Know of Equality",
+      "year": "2026",
+      "category": "Mixed Media",
+      "material": "Mixed Media",
+      "dimensions": "60 H x 84 L x 32 D inches",
+      "description": "Large-scale sculptural installation questioning inherited social hierarchies and asserting human dignity.",
+      "images": []
+    },
+    {
+      "title": "A Breath of Liberation from the Caste System",
+      "year": "2026",
+      "category": "Terracotta & Clay",
+      "material": "Terracotta",
+      "dimensions": "30 W x 33 H x 5 D cm",
+      "description": "Formed in raw earth, reflecting resilience, social emancipation, and collective memory.",
+      "images": []
+    },
+    {
+      "title": "Tethered",
+      "year": "2026",
+      "category": "Mixed Media",
+      "material": "Mixed Media",
+      "dimensions": "120 W x 48 H x 6 D inches",
+      "description": "Monumental wall-based assemblage investigating restraint, connection, and material tension.",
+      "images": []
+    },
+    {
+      "title": "Burn Flying Bamboo",
+      "year": "2026",
+      "category": "Wood & Concrete",
+      "material": "Wood",
+      "dimensions": "19 x 15 x 7 inches",
+      "description": "Carved and charred organic form symbolizing transformation, endurance, and flight.",
+      "images": []
+    },
+    {
+      "title": "Walls That Remember Labour (Collaboration)",
+      "year": "2026",
+      "category": "Wood & Concrete",
+      "material": "Site-Specific Demolition Wall, Concrete & Paint",
+      "dimensions": "Site-Specific Installation",
+      "description": "Collaborative project by Prashik A. Khandare & Rajkumar Samai engaging with eroded walls at a demolition site to preserve traces of physical labour.",
+      "images": []
+    }
+  ]
+}
